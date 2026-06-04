@@ -1,0 +1,6 @@
+Panel,Treatment,Visual_Observation,pH
+EM4 Inoculant,-,-,3.5
+T0,Control – no EM4,"Fresh mixed substrate appearance — green cabbage clearly visible with firm texture, white tofu chunks, pale overall color, original form retained",6.0
+T1,"EM4, 0 days","Very similar to T0 — minimal visual difference, original substrate components still distinguishable, consistent with similar color and smell",5.5
+T2,"EM4, 5 days","Yellowish hue developing, substrate components becoming less distinguishable, texture visibly softer, partial decomposition evident",4.4
+T3,"EM4, 10 days","Yellowish hue developing, substrate components becoming less distinguishable, texture visibly softer, partial decomposition evident",3.2
